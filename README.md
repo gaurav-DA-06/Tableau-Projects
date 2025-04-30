@@ -1,11 +1,14 @@
-Overview
+1. Overview
+   
 Provides insights into employee attrition trends.
 
 Helps HR teams identify factors affecting retention.
 
 Uses interactive visualizations for easy exploration.
 
-Data Sources
+
+3. Data Sources
+   
 Employee records (HRIS system).
 
 Exit interviews and survey data.
@@ -14,7 +17,9 @@ Performance and engagement metrics.
 
 Compensation and benefits data.
 
-Key Metrics & KPIs
+
+5. Key Metrics & KPIs
+   
 Overall Attrition Rate – Percentage of employees leaving the company.
 
 Department-wise Attrition – Attrition across different departments.
@@ -29,7 +34,9 @@ Attrition by Performance Rating – Checks if high performers are leaving.
 
 Attrition by Salary Band – Analyzes impact of compensation on attrition.
 
-Visualizations & Dashboards
+
+7. Visualizations & Dashboards
+   
 Attrition Trends Over Time – Line chart showing monthly/quarterly trends.
 
 Attrition Heatmap – Department-wise attrition levels.
@@ -42,19 +49,25 @@ Attrition Funnel – Tracks resignation process stages.
 
 Word Cloud from Exit Surveys – Common reasons for leaving.
 
-Filters & Drill-down Features
+
+9. Filters & Drill-down Features
+    
 Date Range Selection – Compare different time periods.
 
 Department & Job Role Filters – Focus on specific teams.
 
 Performance & Salary Filters – Identify high-risk employee segments.
 
-Predictive Insights & AI Integration
+
+11. Predictive Insights & AI Integration
+    
 Attrition Prediction Model – Uses historical data to forecast future attrition.
 
 Key Driver Analysis – Identifies top factors influencing attrition.
 
-Business Impact & Recommendations
+
+13. Business Impact & Recommendations
+    
 Helps HR develop retention strategies.
 
 Supports decision-making for salary adjustments & promotions.
